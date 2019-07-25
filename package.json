@@ -1,0 +1,24 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "This app is used to find a friend that has similar likes to your own. It uses express as well as other functions to hit several different pages to allow the user to interact with the app in the browser. When you first enter the site you are met with a home page with a button linking to a survey page. After filling out the survey the app then calculates who would be the best match for you based on your answers.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erloch/friend_finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erloch/friend_finder/issues"
+  },
+  "homepage": "https://github.com/Erloch/friend_finder#readme"
+}
